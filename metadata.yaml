@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4847'
     url: http://www.gutenberg.org/2009/agents/4847
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13124#History-of-Kershaw-s-Brigade--13-With-Complete-Roll-of-Companies-Biographical-Sketches-Incide_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-08-06'
 gutenberg_type: Text
